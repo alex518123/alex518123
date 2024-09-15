@@ -4,7 +4,7 @@
 
 - 🌍 Morando em Viçosa-MG, Brasil
 - 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), cursando Pós-Graduação em Inteligência Artificial pela mesma instituição e, paralelamente, Desenvolvimento Web Full Stack pelo Profissão Programador
-- 📚 
+- 📚 Em constante aprimoramento nas áreas de Desenvolvimento Web, Estatística, Aprendizado de Máquina, Aprendizado Profundo, Processamento Inteligente de Sinais, Análise de Imagens e Visão Computacional, Processamento de Linguagem Natural e outras áreas correlatas
 - 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
@@ -21,6 +21,16 @@
     <td><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/></td>
   </tr>
+</table>
+
+### 🗣️ Habilidades Adicionais
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/usa.png" alt="Inglês" width="40" height="40"/></td>
+    <td>Inglês Avançado</td>
+  </tr>
+  <!-- Você pode adicionar outros ícones e habilidades aqui -->
 </table>
 
 ### 📞 Contatos
