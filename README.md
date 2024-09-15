@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋 Meu nome é Alexander Resende
 
-<!--
-**alex518123/alex518123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioquímico 💊 | Futuro Especialista em Inteligência Artificial 🤖 | Aspirante a Desenvolvedor Web Full Stack 💻**
 
-Here are some ideas to get you started:
+- 🌍 Morando em Viçosa-MG, Brasil
+- 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), cursando Pós-Graduação em Inteligência Artificial pela mesma instituição e, paralelamente, Desenvolvimento Web Full Stack pelo Profissão Programador
+- 📚 
+- 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
+- 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex518123&layout=compact)
