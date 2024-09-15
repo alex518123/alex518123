@@ -11,11 +11,30 @@
 
 ### 🛠️ Habilidades Técnicas
 
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/></td>
+  </tr>
+</table>
 
+### 📞 Contatos
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail" width="40" height="40"/></td>
+    <td><a href="mailto:alexresende518@gmail.com">alexresende518@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
+    <td><a href="https://www.linkedin.com/in/alexander-resende-75a698319">Alexander-Resende</a></td>
+  </tr>
+</table>
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex518123&layout=compact)
