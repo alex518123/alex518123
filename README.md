@@ -9,6 +9,12 @@
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
 
+### 🛠️ Habilidades Técnicas
+
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
 
 
 
