@@ -9,7 +9,7 @@
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
 
-### 🛠️ Habilidades Técnicas
+### 🧰  Habilidades Técnicas
 
 <table>
   <tr>
@@ -34,16 +34,23 @@
       <br/><b>MySQL</b>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/>
+      <br/><b>IA</b>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Ferramentas
+
+<table>
+  <tr>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
       <br/><b>Git</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
       <br/><b>GitHub</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/>
-      <br/><b>IA</b>
     </td>
   </tr>
 </table>
