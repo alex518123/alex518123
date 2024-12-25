@@ -73,6 +73,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex518123&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex518123&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex518123&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex518123&layout=compact&theme=tokyonight)
 
