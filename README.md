@@ -15,7 +15,9 @@
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/></td>
