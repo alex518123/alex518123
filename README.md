@@ -62,12 +62,8 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></td>
-    <td><a href="mailto:alexresende518@gmail.com">alexresende518@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
-    <td><a href="https://www.linkedin.com/in/alexander-resende-75a698319">Alexander-Resende</a></td>
+    <td align="center"><a href="mailto:alexresende518@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/><br><b>Gmail</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/alexander-resende-75a698319"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br><b>LinkedIn</b></a></td>
   </tr>
 </table>
 
