@@ -38,14 +38,15 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></td>
     <td><a href="mailto:alexresende518@gmail.com">alexresende518@gmail.com</a></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
     <td><a href="https://www.linkedin.com/in/alexander-resende-75a698319">Alexander-Resende</a></td>
   </tr>
 </table>
+
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex518123&layout=compact)
