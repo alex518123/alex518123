@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></td>
-    <td><a href="mailto:alexresende518@gmail.com">alexresende518@gmail.com</a></td>
+    <td><a href="mailto:alexresende675@gmail.com">alexresende675@gmail.com</a></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
