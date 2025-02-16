@@ -1,9 +1,9 @@
 ## Hello there 👋 Meu nome é Alexander Resende
 
-**Bioquímico 💊 | Futuro Especialista em Inteligência Artificial 🤖 | Aspirante a Desenvolvedor Web Full Stack 💻**
+**Bioquímico 💊 | Especialista em Inteligência Artificial 🤖 | Aspirante a Desenvolvedor Web Full Stack 💻**
 
 - 🌍 Morando em Viçosa-MG, Brasil
-- 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), cursando Pós-Graduação em Inteligência Artificial pela mesma instituição e, paralelamente, Desenvolvimento Web Full Stack pelo Profissão Programador
+- 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), com Pós-Graduação em Inteligência Artificial pela mesma instituição. Atualmente, cursando Desenvolvimento Web Full Stack pelo Profissão Programador.
 - 📚 Em constante aprimoramento nas áreas de Desenvolvimento Web, Estatística, Aprendizado de Máquina, Aprendizado Profundo, Processamento Inteligente de Sinais, Análise de Imagens e Visão Computacional, Processamento de Linguagem Natural e outras áreas correlatas
 - 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
@@ -24,6 +24,10 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
       <br/><b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+      <br/><b>React</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
