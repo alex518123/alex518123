@@ -69,6 +69,10 @@
       <br/><b>GitHub</b>
     </td>
   </tr>
+  <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Render" width="40" height="40"/>
+      <br/><b>Render</b>
+    </td>
 </table>
 
 ### 🗣️ Habilidades Adicionais
