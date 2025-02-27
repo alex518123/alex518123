@@ -68,11 +68,11 @@
       <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
       <br/><b>GitHub</b>
     </td>
-  </tr>
-  <td align="center">
+    <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Render" width="40" height="40"/>
       <br/><b>Render</b>
     </td>
+  </tr>
 </table>
 
 ### 🗣️ Habilidades Adicionais
