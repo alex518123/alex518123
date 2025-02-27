@@ -26,8 +26,20 @@
       <br/><b>JavaScript</b>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+      <br/><b>TypeScript</b>
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
       <br/><b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
+      <br/><b>Next.js</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
+      <br/><b>Tailwind CSS</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
