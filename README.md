@@ -3,8 +3,8 @@
 **Bioquímico 💊 | Especialista em Inteligência Artificial 🤖 | Aspirante a Desenvolvedor Web Full Stack 💻**
 
 - 🌍 Morando em Viçosa-MG, Brasil
-- 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), com Pós-Graduação em Inteligência Artificial pela mesma instituição. Atualmente, cursando Desenvolvimento Web Full Stack pelo Profissão Programador.
-- 📚 Em constante aprimoramento nas áreas de Desenvolvimento Web, Estatística, Aprendizado de Máquina, Aprendizado Profundo, Processamento Inteligente de Sinais, Análise de Imagens e Visão Computacional, Processamento de Linguagem Natural e outras áreas correlatas
+- 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), com Pós-Graduação em Inteligência Artificial pela mesma instituição. Atualmente, cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Viçosa (Univiçosa)
+- 📚 Em constante aprimoramento das minhas habilidades em JavaScript, Estatística, Inteligência Artificial, Segurança e Confiabilidade de Sistemas, Banco de Dados e tecnologias relacionadas
 - 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
