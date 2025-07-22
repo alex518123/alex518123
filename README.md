@@ -54,6 +54,16 @@
       <br/><b>IA</b>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+        <br/><b>Node.js</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" width="40" height="40"/>
+        <br/><b>Express.js</b>
+      </td>
+    </tr>
 </table>
 
 ### 🛠️ Ferramentas
