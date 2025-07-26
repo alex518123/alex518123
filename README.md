@@ -8,6 +8,7 @@
 - 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
+---
 
 ## 🧠 Tecnologias e Linguagens
 
@@ -32,8 +33,10 @@
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/><br/><b>MySQL</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/>
-      <br/><b>IA</b>
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="40" height="40"/><br/><b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/><br/><b>IA</b>
     </td>
   </tr>
 </table>
