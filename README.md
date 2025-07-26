@@ -8,7 +8,6 @@
 - 👨‍💻 Meus projetos práticos estão disponíveis no GitHub [alex518123](https://github.com/alex518123)
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
----
 
 ## 🧠 Tecnologias e Linguagens
 
