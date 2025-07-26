@@ -59,9 +59,6 @@
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="40" height="40"/><br/><b>Express.js</b>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/ios/50/artificial-intelligence.png" alt="AI" width="40" height="40"/><br/><b>IA / LLMs</b>
-    </td>
   </tr>
 </table>
 
@@ -79,6 +76,9 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Render" width="40" height="40"/><br/><b>Render</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/><br/><b>VS Code</b>
     </td>
   </tr>
 </table>
