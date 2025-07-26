@@ -9,91 +9,81 @@
 - 🎮 Hobbies: Leitura, Academia, Video-game, Futebol e Tênis de Mesa
 
 
-### 🧰  Habilidades Técnicas
+## 🧠 Tecnologias e Linguagens
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-      <br/><b>HTML5</b>
+      <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40" height="40"/><br/><b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-      <br/><b>CSS3</b>
+      <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/><br/><b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-      <br/><b>JavaScript</b>
+      <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40" height="40"/><br/><b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
-      <br/><b>TypeScript</b>
+      <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/><br/><b>TypeScript</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-      <br/><b>React</b>
+      <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/><br/><b>Python</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
-      <br/><b>Next.js</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
-      <br/><b>Tailwind CSS</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-      <br/><b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-      <br/><b>MySQL</b>
+      <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/><br/><b>MySQL</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Artificial Intelligence" width="40" height="40"/>
       <br/><b>IA</b>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-        <br/><b>Node.js</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" width="40" height="40"/>
-        <br/><b>Express.js</b>
-      </td>
-    </tr>
 </table>
 
-### 🛠️ Ferramentas
+---
+
+## ⚙️ Frameworks & Bibliotecas
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-      <br/><b>Git</b>
+      <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40"/><br/><b>React</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-      <br/><b>GitHub</b>
+      <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" width="40" height="40"/><br/><b>Next.js</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" alt="Render" width="40" height="40"/>
-      <br/><b>Render</b>
+      <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/><br/><b>Tailwind CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/><br/><b>Node.js</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="40" height="40"/><br/><b>Express.js</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/artificial-intelligence.png" alt="AI" width="40" height="40"/><br/><b>IA / LLMs</b>
     </td>
   </tr>
 </table>
 
-### 🗣️ Habilidades Adicionais
+---
+
+## 🛠️ Ferramentas de Desenvolvimento
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/usa.png" alt="Inglês" width="40" height="40"/></td>
-    <td>Inglês Avançado</td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/><br/><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="40" height="40"/><br/><b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Render" width="40" height="40"/><br/><b>Render</b>
+    </td>
   </tr>
-  <!-- Você pode adicionar outros ícones e habilidades aqui -->
 </table>
+
+---
 
 ### 📞 Contatos
 
