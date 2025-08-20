@@ -1,6 +1,6 @@
 ## Hello there 👋 Meu nome é Alexander Resende
 
-**Bioquímico 💊 | Especialista em Inteligência Artificial 🤖 | Desenvolvedor Front-end 💻**
+**Bioquímico 💊 | Especialista em Inteligência Artificial 🤖 | Desenvolvedor de Software 💻**
 
 - 🌍 Morando em Viçosa-MG, Brasil
 - 👨‍🎓 Bacharel em Bioquímica pela Universidade Federal de Viçosa (UFV), com Pós-Graduação em Inteligência Artificial pela mesma instituição. Atualmente, cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Viçosa (Univiçosa)
