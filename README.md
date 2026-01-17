@@ -26,6 +26,9 @@
       <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/><br/><b>TypeScript</b>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" width="40" height="40"/><br/><b>PHP</b>
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/><br/><b>Python</b>
     </td>
     <td align="center">
