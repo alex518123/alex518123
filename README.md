@@ -32,6 +32,9 @@
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/><br/><b>MySQL</b>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/><br/><b>PostgreSQL</b>
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="40" height="40"/><br/><b>MongoDB</b>
     </td>
     <td align="center">
@@ -60,6 +63,9 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="40" height="40"/><br/><b>Express.js</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" width="40" height="40"/><br/><b>Laravel</b>
     </td>
   </tr>
 </table>
